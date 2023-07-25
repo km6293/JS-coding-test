@@ -5,3 +5,4 @@ problem_files/*
 package.json
 setting.json
 yarn.lock
+input.txt
