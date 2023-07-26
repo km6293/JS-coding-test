@@ -10,12 +10,11 @@ let dfs = (cur,arr) => {
     if(cur == m) return console.log(arr.join(" "));
 
     Array.from({length:n},(v,i) => i+1).forEach((val) => {
-        visit[val] == 0 && (function(){
-            let t = [...arr,val];
+        if(visit[val] == 0){
             visit[val] = 1;
-            dfs(cur+1, t);
+            dfs(cur+1, [...arr,val]);
             visit[val] = 0;
-        })();
+        };
     })
 }
 
