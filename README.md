@@ -42,7 +42,7 @@
 
 <br/>
 
-#### 이번주 문제(5주차)
+#### 이번주 문제(6주차)
 - https://www.acmicpc.net/problem/10703
 - https://www.acmicpc.net/problem/16926
 
