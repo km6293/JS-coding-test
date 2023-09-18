@@ -38,13 +38,14 @@
 | 03 | 08-07 ~ 8-27 |    ❌    |    ❌    |
 | 04 | 08-28 ~ 9-03 |    ✅    |    ✅    |
 | 05 | 09-04 ~ 9-10 |    ✅    |    ✅    |
-| 06 | 09-11 ~ 9-17 |        |        |
+| 06 | 09-11 ~ 9-17 |        |    ✅    |
+| 07 | 09-18 ~ 9-24 |        |        |
 
 <br/>
 
-#### 이번주 문제(6주차)
-- https://www.acmicpc.net/problem/10703
-- https://www.acmicpc.net/problem/16926
+#### 이번주 문제(7주차)
+- https://www.acmicpc.net/problem/20291
+- https://www.acmicpc.net/problem/15787
 
 
 #### 태그
