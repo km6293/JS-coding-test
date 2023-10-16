@@ -42,13 +42,14 @@
 | 07 | 09-18 ~ 09-24 |    ✅    |    ✅    |
 | 08 | 09-25 ~ 10-01 |    ✅    |    ✅    |
 | 09 | 10-02 ~ 10-08 |    ✅    |    ✅    |
-| 10 | 10-09 ~ 10-15 |        |        |
+| 10 | 10-09 ~ 10-15 |    ✅    |    ✅    |
+| 11 | 10-16 ~ 10-22 |        |        |
 
 <br/>
 
-#### 이번주 문제(10주차)
-- https://www.acmicpc.net/problem/2800
-- https://www.acmicpc.net/problem/3190
+#### 이번주 문제(11주차)
+- https://www.acmicpc.net/problem/1717
+- https://www.acmicpc.net/problem/17298
 
 
 #### 태그
