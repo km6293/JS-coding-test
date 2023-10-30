@@ -44,13 +44,14 @@
 | 09 | 10-02 ~ 10-08 |    ✅    |    ✅    |
 | 10 | 10-09 ~ 10-15 |    ✅    |    ✅    |
 | 11 | 10-16 ~ 10-22 |    ✅    |    ✅    |
-| 12 | 10-23 ~ 10-29 |        |        |
+| 12 | 10-23 ~ 10-29 |    ✅    |    ✅    |
+| 13 | 10-30 ~ 11-05 |        |        |
 
 <br/>
 
-#### 이번주 문제(12주차)
-- https://www.acmicpc.net/problem/1715
-- https://www.acmicpc.net/problem/11000
+#### 이번주 문제(13주차)
+- https://www.acmicpc.net/problem/1976
+- https://www.acmicpc.net/problem/1043
 
 
 #### 태그
